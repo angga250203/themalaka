@@ -11,7 +11,7 @@ function Section5() {
             <p className='text-center max-w-xl py-5 text-[#272D3E] mx-auto'>Klik pada gambar halaman di sebelah kanan buku untuk melihat lebih detail halaman buku tersebut dan membaca isinya.</p>
 
 
-            <div className='flex py-32 lg:py-24 mt-40'>
+            <div className='flex py-32 lg:py-24 mt-40 lg:mt-0'>
                 <div className='w-4/12 hidden lg:block'>
                     <img src="/gambar/img8.png" className=''  />
                 </div>
@@ -24,7 +24,8 @@ function Section5() {
                     <img src='/gambar/book/image 10.png'className='absolute right-[200px] hidden lg:block'/>
                     <img src='/gambar/book/image 9.png'className='absolute right-[250px] hidden lg:block'/>
                     <img src='/gambar/book/image 8.png'className='absolute left-[2px] lg:left-[580px]'/>
-                    <img src='/gambar/book/image 7.png'className='absolute -left-[20px] '/>
+                    <img src='/gambar/book/image 7.png'className='absolute hidden lg:block '/>
+                    <img src='/gambar/book/image 7.png'className='absolute -left-[20px] block lg:hidden'/>
 
 
 

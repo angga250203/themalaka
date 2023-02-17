@@ -24,8 +24,8 @@ function Section3() {
             })}
                
             </div>
-            <div className='w-full md:w-1/2'>
-                <img src='/gambar/img6.png' className='relative mx-auto z-10'/>
+            <div className='w-full md:w-1/2 py-20 lg:py-0'>
+                <img src='/gambar/img6.png' className='relative mx-auto z-10 '/>
                 <div className='bg-[#00BAC7] relative flex px-3  lg:px-12 z-40 py-4 items-center -mt-32 rounded-2xl lg:mx-5 '>
                     <div className='w-4/12 text-white flex items-center space-x-3 lg:space-x-7'>
                         <div>

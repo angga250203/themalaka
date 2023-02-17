@@ -38,3 +38,34 @@ export const check = [
     },
 ]
 
+export const carausel = [
+    {
+        id:1,
+        isi:"Buku ini membantu banget buat kalian yang mau cobain tailwind, lengkap mulai dari instalasi sampai ke penggunaannya. Penjelasannya lengkap & enak dibaca kok :)",
+        nama:"Ahmad Saugi",
+        status:"Mahasiswa",
+        img:"/gambar/avatar1.png"
+    },
+    {
+        id:2,
+        isi:"Buku ini membantu banget buat kalian yang mau cobain tailwind, lengkap mulai dari instalasi sampai ke penggunaannya. Penjelasannya lengkap & enak dibaca kok :)",
+        nama:"Ahmad Saugi",
+        status:"Mahasiswa",
+        img:"/gambar/avatar1.png"
+    },
+    {
+        id:3,
+        isi:"Buku ini membantu banget buat kalian yang mau cobain tailwind, lengkap mulai dari instalasi sampai ke penggunaannya. Penjelasannya lengkap & enak dibaca kok :)",
+        nama:"Ahmad Saugi",
+        status:"Mahasiswa",
+        img:"/gambar/avatar1.png"
+    },
+    {
+        id:4,
+        isi:"Buku ini membantu banget buat kalian yang mau cobain tailwind, lengkap mulai dari instalasi sampai ke penggunaannya. Penjelasannya lengkap & enak dibaca kok :)",
+        nama:"Ahmad Saugi",
+        status:"Mahasiswa",
+        img:"/gambar/avatar1.png"
+    },
+   
+]
