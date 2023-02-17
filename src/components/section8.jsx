@@ -1,5 +1,5 @@
 import React from 'react'
-import Carausel from './slider'
+
 
 function Section8() {
   return (
@@ -17,7 +17,7 @@ function Section8() {
             <p>Kalo seandainya kamu belum percaya dengan buku ini maka tidak apa-apa, karena yang patut kamu percayai adalah Tuhan. Tapi, mungkin beberapa ulasan ini bisa membangkitkan hasratmu untuk membeli buku ini.</p>
         </div>
         </div>
-        <Carausel/>
+       
     </div>
     </div>
   )
