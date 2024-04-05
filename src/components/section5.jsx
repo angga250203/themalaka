@@ -12,20 +12,10 @@ function Section5() {
 
 
             <div className='flex py-32 lg:py-24 mt-40 lg:mt-0'>
-                <div className='w-4/12 hidden lg:block'>
-                    <img src="/gambar/img8.png" className=''  />
-                </div>
+               
 
-                <div className='w-full lg:w-8/12 flex items-center'>
-                    <img src='/gambar/book/image 14.png'className='absolute right-[50px] hidden lg:block  '/>
-                    <img src='/gambar/book/image 13.png'className='absolute right-[50px] hidden lg:block'/>
-                    <img src='/gambar/book/image 12.png'className='absolute right-[100px] hidden lg:block'/>
-                    <img src='/gambar/book/image 11.png'className='absolute right-[150px] hidden lg:block'/>
-                    <img src='/gambar/book/image 10.png'className='absolute right-[200px] hidden lg:block'/>
-                    <img src='/gambar/book/image 9.png'className='absolute right-[250px] hidden lg:block'/>
-                    <img src='/gambar/book/image 8.png'className='absolute left-[2px] lg:left-[580px]'/>
-                    <img src='/gambar/book/image 7.png'className='absolute hidden lg:block '/>
-                    <img src='/gambar/book/image 7.png'className='absolute -left-[20px] block lg:hidden'/>
+                <div className='w-full  flex items-center'>
+                    <img src="/gambar/book.png" alt="book" className='w-full' />
 
 
 
